@@ -418,3 +418,19 @@ ul {
   align-items: center;
 }
 
+/* Alterar botões quando o mouse estiver em cima */
+button:hover {
+  cursor:pointer;
+  background-color: white;
+  outline: 3px solid #D2FF40;
+}
+
+/* Link voltar na tela de cadastro */
+.voltarlogin {
+  font-family: inherit;
+  font-weight: bold;
+  font-size: 15px;
+  float:right;
+  padding-left: 80px;
+  color: #606770;
+}
